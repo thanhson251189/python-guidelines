@@ -4,10 +4,10 @@
 ---
 
 Tài liệu này được biên soạn nhằm nhất quán hóa phong cách lập trình và tối ưu hóa quy trình cộng tác thông qua Code Review trong dự án. Nội dung được tổng hợp chi tiết từ các tài liệu gốc:
-*   [clean_code_guidelines.md](file:///d:/OneDrive/M%C3%A1y%20t%C3%ADnh/GITHUB/1.%20PYTHON/MY_PYTHON_LOGGING/clean_code_guidelines.md) — Hướng dẫn lập trình sạch Python.
-*   [cl_nho.md](file:///d:/OneDrive/M%C3%A1y%20t%C3%ADnh/GITHUB/1.%20PYTHON/MY_PYTHON_LOGGING/cl_nho.md) — Hướng dẫn chia nhỏ CL/PR.
-*   [mo_ta_cl.md](file:///d:/OneDrive/M%C3%A1y%20t%C3%ADnh/GITHUB/1.%20PYTHON/MY_PYTHON_LOGGING/mo_ta_cl.md) — Cách viết mô tả CL/PR.
-*   [xu_ly_y_kien.md](file:///d:/OneDrive/M%C3%A1y%20t%C3%ADnh/GITHUB/1.%20PYTHON/MY_PYTHON_LOGGING/xu_ly_y_kien.md) — Cách xử lý ý kiến của người duyệt.
+*   [clean_code_guidelines.md](./clean_code_guidelines.md) — Hướng dẫn lập trình sạch Python.
+*   [cl_nho.md](./cl_nho.md) — Hướng dẫn chia nhỏ CL/PR.
+*   [mo_ta_cl.md](./mo_ta_cl.md) — Cách viết mô tả CL/PR.
+*   [xu_ly_y_kien.md](./xu_ly_y_kien.md) — Cách xử lý ý kiến của người duyệt.
 
 ---
 
